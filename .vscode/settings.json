@@ -17,9 +17,15 @@
     "build-a-timestamp-microservice": true,
     "build-a-web-server": true,
     "learn-nodejs-repl": true,
+<<<<<<< HEAD
     "build-a-case-converter": false,
     "build-a-prime-number-checker-module": true,
     "build-a-file-processor": true,
+=======
+    "build-a-case-converter": true,
+    "build-a-prime-number-checker-module": true,
+    "build-a-file-processor": false,
+>>>>>>> b884133 (first commit)
     "build-a-family-movie-watchlist-api": true,
     "build-a-random-joke-app": true,
     "build-a-personal-profile-app": true,
@@ -42,7 +48,11 @@
       "open": true,
       "showLoader": true,
       "timeout": 4000,
+<<<<<<< HEAD
       "url": "https://super-duper-barnacle-4q7jvj94q6j6fjpjj-8080.app.github.dev"
+=======
+      "url": "https://ideal-space-bassoon-vpv6r674pg77f6gjr-8080.app.github.dev"
+>>>>>>> b884133 (first commit)
     }
   ],
   "terminal.integrated.defaultProfile.linux": "bash",

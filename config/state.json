@@ -1,9 +1,17 @@
 {
+<<<<<<< HEAD
   "currentProject": "build-a-case-converter",
+=======
+  "currentProject": "build-a-file-processor",
+>>>>>>> b884133 (first commit)
   "locale": "english",
   "lastSeed": {
     "projectDashedName": null,
     "lessonNumber": -1
   },
+<<<<<<< HEAD
   "lastWatchChange": 44
+=======
+  "lastWatchChange": 29
+>>>>>>> b884133 (first commit)
 }
