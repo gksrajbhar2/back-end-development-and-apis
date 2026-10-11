@@ -15,11 +15,15 @@
     "package.json": true,
     "README.md": true,
     "build-a-timestamp-microservice": true,
+<<<<<<< HEAD
     "build-a-web-server": false,
     "learn-nodejs-repl": true,
     "build-a-case-converter": true,
     "build-a-prime-number-checker-module": true,
     "build-a-file-processor": true,
+=======
+
+>>>>>>> 3a161994ac158316f4532fc6cdc19f7f62cbd537
     "build-a-family-movie-watchlist-api": true,
     "build-a-random-joke-app": true,
     "build-a-personal-profile-app": true,
@@ -30,6 +34,7 @@
     "build-a-resource-monitor": true,
     "build-a-chat-app": true,
     "build-jwt-protected-routes": true
+<<<<<<< HEAD
   },
   "chat.disableAIFeatures": true,
   "files.autoSave": "off",
@@ -57,3 +62,12 @@
     }
   }
 }
+=======
+  }
+ 
+}
+
+  
+
+    
+>>>>>>> 3a161994ac158316f4532fc6cdc19f7f62cbd537
