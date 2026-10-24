@@ -1,9 +1,13 @@
-{
-  "currentProject": "build-a-web-server",
-  "locale": "english",
-  "lastSeed": {
-    "projectDashedName": "build-a-web-server",
-    "lessonNumber": 57
-  },
-  "lastWatchChange": 57
-}
+  {
+    "id": 4,
+    "dashedName": "build-a-web-server",
+    "isIntegrated": false,
+    "isPublic": true,
+    "currentLesson": 57,
+    "runTestsOnWatch": true,
+    "seedEveryLesson": true,
+    "isResetEnabled": false,
+    "blockingTests": false,
+    "breakOnFailure": false,
+    "numberOfLessons": 60
+  }
